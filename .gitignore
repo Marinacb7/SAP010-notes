@@ -1,0 +1,18 @@
+# Arquivos e pastas gerados pelo Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Arquivos de construção
+build/
+dist/
+
+# Arquivos de ambiente
+.env
+
+# Outros arquivos
+.DS_Store
+*.swp
+.nyc_output/
+coverage/
+.vscode/
