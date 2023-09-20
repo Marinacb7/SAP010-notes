@@ -16,3 +16,8 @@ dist/
 .nyc_output/
 coverage/
 .vscode/
+.github/
+notes/
+public/
+firestore.rules/
+firestore.indexes.json/
